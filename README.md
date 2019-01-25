@@ -13,3 +13,10 @@ WKnight is a robot built around the Atmega2560 development board for the Sri Lan
 Detailed instructions will be uploaded soon.
 
 Youtube : https://www.youtube.com/watch?v=jBJZCjU9eyo
+
+
+Contributors : 
+
+Pasindu Liyanage
+Sachithra Indrajith
+Tharumal Wimalasekara
